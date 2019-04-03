@@ -1,0 +1,1 @@
+将mnist二进制文件，通过python，得到最终的图片，包括有train和test
